@@ -36,7 +36,7 @@ public class RomanNumerals {
         }
 
         if(MIN_LIMIT > arabicNumber){
-            throw new Exception("Merci de renseigner un chiffre valide");
+            throw new Exception("Merci de rensvsdvsdvbsdvbseigner un chiffre valide");
         }
 
         int maxRomanNumberContained =  map.floorKey(arabicNumber);
